@@ -6,6 +6,7 @@
 This is a can be used separately **full-featured support library** for *beginner developers* or *Experienced developers who want to save time*  
 
 It can be used anywhere CShap is supported, including the optional Unity support library
+
 Its functions include:
 * MathLib(Like: SteplimitNum)
 * RandomNumber(Like: Limited random numbers that can be stored and read)
