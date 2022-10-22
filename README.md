@@ -26,8 +26,8 @@ Its functions include:
 
 ## Technical Support
 * Audio Support: CRIWARE/FMOD/Wwise
-* Script Support: Unity Technologies/NCPSKYGameStudio
-* Animation Support: NCPSKYGameStudio/Kybernetik
+* Script Support: NCPSKYGameStudio/HYF_TRUE
+* Animation Support: NCPSKYGameStudio
 * Other Technical Support: ComiComi
 
 ## Support Email: 769349019@qq.com
