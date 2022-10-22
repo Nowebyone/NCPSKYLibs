@@ -2,14 +2,15 @@
 
 ## What can this library do?
 
-###!!!!!Unity is not required!!!!!
+### !!!!!Unity is not required!!!!!
 This is a can be used separately **full-featured support library** for *beginner developers* or *Experienced developers who want to save time*  
+
 It can be used anywhere CShap is supported, including the optional Unity support library
 Its functions include:
 * MathLib(Like: SteplimitNum)
 * RandomNumber(Like: Limited random numbers that can be stored and read)
 * UnitySupport(Use Unity API)
-* Unity Game Framework(AStar/MonoManager/PoolManager/ResManager/ScenesManager/UIManager/EventCenter and More)
+* Unity Game Framework(AStar/MonoMgr/Pool/ResMgr/ScenesMgr/UIMgr/EventCenter and More)
 
 ####Is being made:
 * EXAudioSupportSystem For Unity[CRIWARE/FMOD/Wwise]
