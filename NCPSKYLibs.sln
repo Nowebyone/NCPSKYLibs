@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCPSKYLibs", "NCPSKYLibs\NCPSKYLibs.csproj", "{A972C900-ACF9-42B7-ADDE-958A4E064327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A972C900-ACF9-42B7-ADDE-958A4E064327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A972C900-ACF9-42B7-ADDE-958A4E064327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A972C900-ACF9-42B7-ADDE-958A4E064327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A972C900-ACF9-42B7-ADDE-958A4E064327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
