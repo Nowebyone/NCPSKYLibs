@@ -4,8 +4,6 @@
 [Bb]uild/
 [Bb]uilds/
 
-
-# IDE cache directory
 .vs/
 .idea/
 .svn/
@@ -13,6 +11,8 @@
 /.idea
 /.svn
 /.vscode
+
+*.meta
 
 
 
